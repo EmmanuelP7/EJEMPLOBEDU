@@ -1,0 +1,21 @@
+body {
+    background-color: #fffbf7;
+    background-image: url("assets/img/coding.jpg");
+}
+
+h1 {
+    color: #a077b3;
+    text-align: center;
+}
+
+p {
+    color: #8b8b8bcc;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+button {
+    color: #fff;
+    background-color: #025157;
+}
+
